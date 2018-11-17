@@ -1,0 +1,14 @@
+C:\Nik's Stuff\Development\MSA\MemeApi\MemeApi\bin\Debug\netcoreapp2.1\MemeApi.deps.json
+C:\Nik's Stuff\Development\MSA\MemeApi\MemeApi\bin\Debug\netcoreapp2.1\MemeApi.runtimeconfig.json
+C:\Nik's Stuff\Development\MSA\MemeApi\MemeApi\bin\Debug\netcoreapp2.1\MemeApi.runtimeconfig.dev.json
+C:\Nik's Stuff\Development\MSA\MemeApi\MemeApi\bin\Debug\netcoreapp2.1\MemeApi.dll
+C:\Nik's Stuff\Development\MSA\MemeApi\MemeApi\obj\Debug\netcoreapp2.1\MemeApi.csproj.CoreCompileInputs.cache
+C:\Nik's Stuff\Development\MSA\MemeApi\MemeApi\obj\Debug\netcoreapp2.1\MemeApi.RazorAssemblyInfo.cache
+C:\Nik's Stuff\Development\MSA\MemeApi\MemeApi\obj\Debug\netcoreapp2.1\MemeApi.RazorAssemblyInfo.cs
+C:\Nik's Stuff\Development\MSA\MemeApi\MemeApi\obj\Debug\netcoreapp2.1\MemeApi.AssemblyInfoInputs.cache
+C:\Nik's Stuff\Development\MSA\MemeApi\MemeApi\obj\Debug\netcoreapp2.1\MemeApi.AssemblyInfo.cs
+C:\Nik's Stuff\Development\MSA\MemeApi\MemeApi\obj\Debug\netcoreapp2.1\MemeApi.RazorTargetAssemblyInfo.cache
+C:\Nik's Stuff\Development\MSA\MemeApi\MemeApi\bin\Debug\netcoreapp2.1\MemeApi.pdb
+C:\Nik's Stuff\Development\MSA\MemeApi\MemeApi\obj\Debug\netcoreapp2.1\MemeApi.dll
+C:\Nik's Stuff\Development\MSA\MemeApi\MemeApi\obj\Debug\netcoreapp2.1\MemeApi.pdb
+C:\Nik's Stuff\Development\MSA\MemeApi\MemeApi\obj\Debug\netcoreapp2.1\MemeApi.csprojAssemblyReference.cache
